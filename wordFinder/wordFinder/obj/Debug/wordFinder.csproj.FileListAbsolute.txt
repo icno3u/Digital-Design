@@ -1,0 +1,7 @@
+C:\Users\cherk\source\repos\wordFinder\wordFinder\bin\Debug\wordFinder.exe.config
+C:\Users\cherk\source\repos\wordFinder\wordFinder\bin\Debug\wordFinder.exe
+C:\Users\cherk\source\repos\wordFinder\wordFinder\bin\Debug\wordFinder.pdb
+C:\Users\cherk\source\repos\wordFinder\wordFinder\obj\Debug\wordFinder.csproj.AssemblyReference.cache
+C:\Users\cherk\source\repos\wordFinder\wordFinder\obj\Debug\wordFinder.csproj.CoreCompileInputs.cache
+C:\Users\cherk\source\repos\wordFinder\wordFinder\obj\Debug\wordFinder.exe
+C:\Users\cherk\source\repos\wordFinder\wordFinder\obj\Debug\wordFinder.pdb
